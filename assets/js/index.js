@@ -1,9 +1,6 @@
 $(document).ready(function () {
   $('.carousel').slick({
-
     dots: true,
-    // arrows: true,
-    // mobileFirst: true
   });
 });
 
