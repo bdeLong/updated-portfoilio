@@ -1,8 +1,9 @@
 $(document).ready(function () {
   $('.carousel').slick({
-    infinite: true,
+
     dots: true,
-    arrows: true,
+    // arrows: true,
+    // mobileFirst: true
   });
 });
 

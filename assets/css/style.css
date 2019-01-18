@@ -71,11 +71,6 @@ p i{
   color: rgb(0, 123, 255);
 }
 
-.project-shown{
-  margin-left: 20px;
-}
-
-
 .overlay{
   position: relative;
 }
@@ -109,6 +104,3 @@ p i{
   padding-top: 25px;
   color: rgb(0,123,255)
 }
-
-
-
